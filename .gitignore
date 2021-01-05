@@ -1,0 +1,4 @@
+VOC2012
+trained_models
+tblog
+**/*.pth
